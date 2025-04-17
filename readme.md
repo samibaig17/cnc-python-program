@@ -1,5 +1,5 @@
 # CNC Python Program
-Program to calculate ezdxf
+Program to calculate measruement for dxf file using ezdxf library.
 
 ## Output Example
 
